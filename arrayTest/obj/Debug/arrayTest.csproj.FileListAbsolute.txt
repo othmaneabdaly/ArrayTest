@@ -1,0 +1,6 @@
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\bin\Debug\arrayTest.exe.config
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\bin\Debug\arrayTest.exe
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\bin\Debug\arrayTest.pdb
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\obj\Debug\arrayTest.csprojResolveAssemblyReference.cache
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\obj\Debug\arrayTest.exe
+C:\Users\OTHMANE\Desktop\cSharpProject\array\arrayTest\obj\Debug\arrayTest.pdb
