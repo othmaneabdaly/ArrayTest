@@ -13,6 +13,7 @@ namespace arrayTest
             string a = "taha";
             string b = "othmane";
             string c = "aymen";
+            string d = "Simo";
             int[] tab = new int[] { 1, 5, 7, 35, 4, 2, 6, 9, 8 };
             tri(tab);
             for (int i = 0; i < tab.Length; i++)
